@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "ubixrestaurante": "ubix-avd",
+    "default": "ubix-avd"
+  }
+}
