@@ -27,7 +27,7 @@ Ubix Restaurant Dashboard is a web application that allows restaurants to manage
 - Yup v0.29
 
 ### Backend-as-a-Service
-- Firebase v7.19
+- Firebase v7.19 (Auth, Firestore, Storage, Cloud Messaging, Cloud Functions)
 - Geofirestore v4.3
 
 ### Maps
