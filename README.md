@@ -25,7 +25,7 @@ Ubix Restaurant Dashboard is a web application that allows restaurants to manage
 - [Yup](https://www.npmjs.com/package/yup) `v0.29`  
 
 ### State Management
-- Context API
+- [Context API](https://reactjs.org/docs/context.html)
 
 ### Maps
 - [Google Maps React](https://www.npmjs.com/package/google-maps-react) `v2.0`  
