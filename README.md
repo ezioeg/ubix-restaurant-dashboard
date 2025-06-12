@@ -1,12 +1,12 @@
-# Ubix Restaurant Dashboard
-Ubix Restaurant Dashboard is a web application that allows restaurants to manage their general information, products, orders, and payments. The application is designed to help each restaurant administer and optimize the management of their services.
+## 🍽️ Ubix Restaurant Dashboard  
+Web application designed for restaurants to efficiently manage their general information, products, orders, and payments. Helps restaurants optimize service administration.
 
-## Features
-- **Product Management**: Add, edit, and delete products from your restaurant.
-- **Order Management**: View and manage orders placed by your customers.
-- **Payment Management**: Manage your transactions and payments.
-- **Web Notifications**: Receive real-time notifications about relevant events.
-- **PWA Installation**: The application can be installed as a Progressive Web App for easier access.
+### Features  
+- **Product Management**: Add, edit, and delete products.  
+- **Order Management**: View and manage customer orders.  
+- **Payment Management**: Handle transactions and payments.  
+- **Web Notifications**: Receive real-time notifications about important events.  
+- **PWA Installation**: Supports installation as a Progressive Web App for easier access.
 
 ## Technologies Used
 ### Core
